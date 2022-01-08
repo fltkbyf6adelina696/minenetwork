@@ -1,0 +1,22 @@
+.bg-primary {
+    background-color: white;
+    
+}
+
+.btn-primary {
+
+color: white;
+background-color: inherit;
+border-color: inherit;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: rgba(36, 35, 35, 0.192);
+    border-color: white;
+}
+.form-group-primary {
+    color: white;
+background-color: inherit;
+border-color: inherit;
+}
